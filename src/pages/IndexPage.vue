@@ -73,6 +73,7 @@ export default {
     const $q = useQuasar()
     const id = ref("6604101398")
     const id1 = ref("6604101398")
+    const id2 = ref("6604101398")
     const name = ref("Aphinya")
     const surname = ref("Ranuyam")
     const language = ref("ภาษาไทย")
